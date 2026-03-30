@@ -14,3 +14,5 @@ df = spark.createDataFrame(data, ["Name", "Age"])
 df.show()
 print("Databricks 연결 테스트 성공!")
 '@ | Out-File -FilePath test_databricks.py -Encoding utf8
+
+print("Databricks 웹에서 수정되었습니다!")
