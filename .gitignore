@@ -5,4 +5,5 @@ __pycache__/
 .bundle/
 .vscode/
 .idea/
+.envProperties
 *.ipynb_checkpoints
