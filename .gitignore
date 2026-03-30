@@ -1,0 +1,8 @@
+# Python/Databricks essentials
+__pycache__/
+*.py[cod]
+.databricks/
+.bundle/
+.vscode/
+.idea/
+*.ipynb_checkpoints
